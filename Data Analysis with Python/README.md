@@ -1,6 +1,6 @@
 # Data Analysis with Python #
 In this folder you can find the exercises to aprove the certification of "Data Analysis with Python", from __[freeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/)__ <br>
-I made some adjustments to fit it on my Portfolio, you can find the actual exercises on the certificate.
+I made some adjustments to fit it on my Portfolio, you can find the actual exercises on the [certificate](#Certificate).
 For each problem there is a `main` Jupyter Notebook, with the description of the exercise and the answer. Each exercise has a python file with the code created to solve the problem.
 
 ## Certificate ##
