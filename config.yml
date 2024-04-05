@@ -1,1 +1,46 @@
-theme: jekyll-theme-slate
+title: MyPortfolio
+description: My personal portfolio to share my work
+author: Mauricio Heyermann
+email: mvonheyermann@gmail.com
+
+baseurl: https://mheyermann.github.io/MyPortfolio/
+
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# Customize the navigation bar links
+# (replace 'link1', 'link2', etc. with your desired links and text)
+menu:
+  - name: Home
+    url: /
+  - name: About
+    url: /about
+  - name: Contact
+    url: /contact
+
+# Enable or disable social links (replace 'username' with your usernames)
+social:
+  twitter: username
+  facebook: username
+
+# Configure code highlighting (optional)
+# highlight: pygments
+
+# Configure search (optional)
+# search: true
+
+# Configure comments (optional)
+# comments: true
+# disqus: your_disqus_shortname  # Replace with your Disqus shortname
+
+# Configure Google Analytics (optional)
+# google_analytics: UA-12345678-9
+
+# Configure pagination (optional)
+# max_posts: 10  # Number of posts per page
+
+# Configure categories (optional)
+# exclude: ['Gemfile', 'Gemfile.lock', 'README.md']
+
+# Configure other settings as needed (refer to your theme's documentation)
