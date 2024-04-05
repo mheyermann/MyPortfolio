@@ -15,5 +15,6 @@ Here I upload **projects** I'm working on, **Certification** exercises and codes
 **Mauricio Heyermann Vial** <br>
 __[LinkedIn](https://www.linkedin.com/in/mauricio-heyermann-vial/)__ <br>
 mvonheyermann@gmail.com <br>
-___   
+<hr style="border: none; border-top: 1px solid #000;">
+
 
