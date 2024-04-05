@@ -1,4 +1,2 @@
-title: MyPortfolio
-description: My personal portfolio to share my work
-remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-cayman
 
