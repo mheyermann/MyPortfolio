@@ -14,5 +14,5 @@ Here I upload **projects** I'm working on, **Certification** exercises and codes
 ## Author ##
 **Mauricio Heyermann Vial** <br>
 __[LinkedIn](https://www.linkedin.com/in/mauricio-heyermann-vial/)__ <br>
-mvonheyermann@gmail.com
+mvonheyermann@gmail.com <br>
 ***
